@@ -1,8 +1,3 @@
-"""
-Reagent molecular drug-discovery learning project
-
-"""
-
 from reagent.domain.compound import Compound
 
 __all__ = ["Compound"]
